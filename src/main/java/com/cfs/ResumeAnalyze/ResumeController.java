@@ -9,7 +9,7 @@ import org.springframework.web.multipart.MultipartFile;
 import java.util.Map;
 
 @RestController
-@CrossOrigin("https://smart-cv-ai-pied.vercel.app/")
+@CrossOrigin("https://smart-cv-ai-rho.vercel.app/")
 @RequestMapping("/api/resume")
 public class ResumeController {
 
