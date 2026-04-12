@@ -43,7 +43,7 @@ function Navbar() {
       boxShadow: "0 1px 8px rgba(21,101,192,0.07)",
     }}>
       <img
-        src="logo (2).png"
+        src="logo(2).png"
         alt="SmartCV AI"
         style={{ height: 44, objectFit: "contain", display: "block" }}
       />
