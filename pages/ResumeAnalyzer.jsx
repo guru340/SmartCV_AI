@@ -1,4 +1,5 @@
 import { useState } from "react";
+
 import {
   Upload, Button, Tabs, Typography,
   Input, Divider, Alert, Spin, Row, Col, message,
@@ -13,7 +14,7 @@ import { Progress } from "antd";
 const { Dragger } = Upload;
 const { TextArea } = Input;
 
-const API_BASE = "http://localhost:8080/api/resume";
+const API_BASE = "https://resume-analyze-psej.onrender.com/api/resume";
 const BLUE = "#1565C0";
 const BLUE_LIGHT = "#E3F0FF";
 const BLUE_MID = "#1976D2";
