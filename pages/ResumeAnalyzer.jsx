@@ -14,7 +14,7 @@ import { Progress } from "antd";
 const { Dragger } = Upload;
 const { TextArea } = Input;
 
-const API_BASE = "https://smartcv-a1.onrender.com/api/resume";
+const API_BASE = "https://smartcv-aii.onrender.com/api/resume";
 const BLUE = "#1565C0";
 const BLUE_LIGHT = "#E3F0FF";
 const BLUE_MID = "#1976D2";
